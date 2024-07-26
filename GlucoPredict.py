@@ -2,7 +2,7 @@ import numpy as np
 import pickle
 import streamlit as st
 
-loaded_model = pickle.load(open('C:/Users/PRIYANSHU/Desktop/Python_Vsc/Diabates/model/trained_model.sav', 'rb'))
+loaded_model = pickle.load(open('trained_model.sav', 'rb'))
 
 
 # creating a function for prediction
@@ -25,7 +25,7 @@ def diabetes_prediction(input_data):
 def main():
     # giving title
     st.title('GlucoPredict: Diabetes Prediction Web App')
-    st.image("C:/Users/PRIYANSHU/Desktop/Python_Vsc/Diabates/diabetes.webp", width=200)
+    st.image("diabetes.webp", width=200)
 
     # getting the input data from the user
 
