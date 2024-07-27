@@ -4,6 +4,4 @@
 The Link to the Web-App GlucoPredict--->https://glucopredict-yof5eygzbh4rvipfangwvj.streamlit.app/
 
 # DEMO
-
-<img src="https://github.com/iam-baivab/AMS/assets/169576921/6db5a434-46f6-4b5b-9327-095f82d29569" alt="screen_1" height="400" width="200">
-
+![Screenshot 2024-07-27 202523](https://github.com/user-attachments/assets/5a36f96f-3f83-4104-aa7e-6eb2eac606b4)
